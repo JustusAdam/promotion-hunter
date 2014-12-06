@@ -1,0 +1,12 @@
+﻿# build directories
+
+bin/
+obj/
+
+# files that I think should be here but have no idea what they do
+
+*.sln
+*.userprefs
+
+
+# project files
